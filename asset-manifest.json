@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/abmoiz123/zeeshan-challenge.git/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/abmoiz123/zeeshan-challenge.git/static/js/main.6ae6b645.chunk.js",
+    "main.js.map": "/abmoiz123/zeeshan-challenge.git/static/js/main.6ae6b645.chunk.js.map",
+    "runtime-main.js": "/abmoiz123/zeeshan-challenge.git/static/js/runtime-main.90bc61a3.js",
+    "runtime-main.js.map": "/abmoiz123/zeeshan-challenge.git/static/js/runtime-main.90bc61a3.js.map",
+    "static/js/2.192f81bf.chunk.js": "/abmoiz123/zeeshan-challenge.git/static/js/2.192f81bf.chunk.js",
+    "static/js/2.192f81bf.chunk.js.map": "/abmoiz123/zeeshan-challenge.git/static/js/2.192f81bf.chunk.js.map",
+    "static/js/3.5b30e9c4.chunk.js": "/abmoiz123/zeeshan-challenge.git/static/js/3.5b30e9c4.chunk.js",
+    "static/js/3.5b30e9c4.chunk.js.map": "/abmoiz123/zeeshan-challenge.git/static/js/3.5b30e9c4.chunk.js.map",
+    "index.html": "/abmoiz123/zeeshan-challenge.git/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/abmoiz123/zeeshan-challenge.git/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.192f81bf.chunk.js.LICENSE.txt": "/abmoiz123/zeeshan-challenge.git/static/js/2.192f81bf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.90bc61a3.js",
+    "static/js/2.192f81bf.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.6ae6b645.chunk.js"
+  ]
+}
